@@ -1,2 +1,2 @@
 # merge-conflits-quest
-abc
+REMOTE
